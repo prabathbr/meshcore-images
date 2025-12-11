@@ -11,5 +11,6 @@ Automatically converts any input image.
 - image_b64_csv.py = Converts a folder with images to Tx strings for testing the Rx client
 
 
-Sample image source: https://commons.wikimedia.org/wiki/File:Warning_Symbol.png  
-Tx code `AAAAAAAAAAAAAAAAAIAAAACAAQAAwAMAAOAHAABwDgAAeB4AAHw+AAB+fgAA//8AgH/+AMD//wHg//8D8P//BwAAAAAAAAAA`
+Sample Tx image source: https://commons.wikimedia.org/wiki/File:Warning_Symbol.png  
+Tx code `AAAAAAAAAAAAAAAAAIAAAACAAQAAwAMAAOAHAABwDgAAeB4AAHw+AAB+fgAA//8AgH/+AMD//wHg//8D8P//BwAAAAAAAAAA`  
+Sample Rx : Sample_Rx.png
